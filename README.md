@@ -1812,7 +1812,7 @@ fully covered API and a lot of additional DSLs on top of base API.
 * [ComposeMultiplatformMediaPlayer](https://github.com/Chaintech-Network/ComposeMultiplatformMediaPlayer) - A Compose Multiplatform library for seamless media playback, including video, reels, audio, YouTube integration, thumbnails, and HLS m3u8 support, with customizable controls.
   ![badge-android]
   ![badge-ios]
-  ![badge-desktop]
+  ![badge-desktop](http://img.shields.io/badge/platform-desktop-FF9500.svg?style=flat)
 
 ### Math
 
